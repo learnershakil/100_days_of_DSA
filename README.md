@@ -34,7 +34,7 @@ Are you ready to embark on your journey to master Data Structures and Algorithms
 ---
 **Contact Information:**
 
-- 📧 Email: learnershakil@gmail.com
+- 📧 Email: dev.shakilahmad@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
 - 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
 - 🌐 Website: [learnershakil.rf.gd](https://learnershakil.rf.gd)
